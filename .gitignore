@@ -1,0 +1,15 @@
+# Visual Studio / VS Code
+.vs/
+.vscode/
+*.user
+*.suo
+
+# Build output
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+*.exe
+*.obj
+*.pdb
+*.ilk
