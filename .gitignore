@@ -13,3 +13,9 @@ x86/
 *.obj
 *.pdb
 *.ilk
+
+# Test build output (tools/test.py)
+build/
+
+# Python
+__pycache__/
